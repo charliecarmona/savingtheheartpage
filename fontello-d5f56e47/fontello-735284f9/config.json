@@ -1,0 +1,28 @@
+{
+  "name": "menu",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "code": 62253,
+      "src": "entypo"
+    },
+    {
+      "uid": "2cfb3f2b46b34a1790aec0aa846297b6",
+      "css": "menu",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
+      "css": "gplus",
+      "code": 61653,
+      "src": "fontawesome"
+    }
+  ]
+}
