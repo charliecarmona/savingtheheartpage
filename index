@@ -1,0 +1,107 @@
+<!DOCTYPE <!DOCTYPE html>
+<html lang="es">
+<head>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>Saving the heart</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-sc">
+	<link rel="stylesheet"  href="css/fontello.css">
+	<link rel="stylesheet"  href="css/estilos.css">
+</head>
+
+<body>
+<header>
+<div class="contenedor">
+ <h1  class="icon-heart">Saving the heart</h1>
+ <input type="checkbox" id="menu-bar">
+ <label class="icon-home" for="menu-bar"></label>
+ <nav class="menu">
+   <a href="">Inicio</a>
+   <a href="manual/manual.html">Manual de usuario</a>
+   <a href="corazon/corazon.html">Información del corazón</a>
+   <a href="contacto/plan.html">Contacto</a>
+     </nav>
+ </div>
+</header>
+
+<main>
+  <section id="banner">
+    <div class="contenedor">
+      <h2>&nbsp;</h2>
+      <section id="banner2"> <img src="img/Consultants-banner.jpg" />
+        <div class="contenedor">
+          <FONT style="text-align:justify" size=6 COLOR="black">BIENVENIDO AL SITIO WEB OFICIAL DE SAVING THE HEART</FONT>
+          
+  
+          <a href="informacion/informacion.html">Más información</a></div>
+      </section>
+    </div>
+  </section>
+  <section id="bienvenidos">
+ <h2>Monitoreo del pulso cardicaco en tiempo real</h2>
+ <p>En este sitio web podrá unirse al blog donde podrá compartir sus experiencias asi como conocer mas sobre nuestro proyecto</p>
+ </section>
+
+ <section id="blog">
+ <h3>Lo último de nuestro blog</h3>
+ <div class="contenedor">
+    <article>
+    <img src="img/621x466_56cdff5fb93795e3298b4567_0_33-1456418335,68.jpg">
+    <h4>Riesgos por efermedades cardiacas</h4>
+    </article>
+    <article>
+    <img src="img/saving.png">
+    <h4>Novedades del proyecto</h4>
+    </article>
+    <article>
+    <img src="img/cuatro.png">
+    <h4>Conosca como funcionan las interfaces</h4>
+    </article>
+    <article>
+    <img src="img/IMG_20170403_122853.jpg">
+    <h4>Prototipo</h4>
+    </article>
+    <article>
+    <img src="img/objetivo_318-76233.jpg">
+    <h4>Objetivo del proyecto</h4>
+    </article>
+    <article>
+    <img src="img/cardiologia-servicio_2.jpg">
+    <h4>Seguimiento y sujerencias</h4>
+    </article>
+    
+</div>
+</section>
+
+<section id="info">
+<h3>Es importante estar al pendiente y saber cuáles son los sintomas que pueden llevar a una persona a sufrir un infarto.</h3>
+<div class="contenedor">
+<div class="info-heart">
+<img src="img/sudores.jpg">
+<h4>Sudoración</h4>
+</div>
+<div class="info-heart">
+<img src="img/Nauseas-Embarazo-Comer-Exceso-Mareo-Vomito-Estomago-Revuelto.jpg">
+<h4>Náuseas</h4>
+</div>
+<div class="info-heart">
+<img src="img/infarto-dolor-pecho.jpg">
+<h4>Dolor de pecho</h4>
+</div>
+<div class="info-heart">
+<img src="img/dolor-brazo-izquierdo.jpg">
+<h4>Dolor en brazo izquierdo</h4>
+</div>
+
+</section>
+</main>
+<footer>
+<div class="contenedor"></div>
+<p class="copy">Saving the heart &copy; 2017</p>
+<div class="sociales">
+<a class="icon-facebook-official" href="#"></a>
+<a class="icon-twitter" href="#"></a>
+</footer>
+</body>
+</html>
